@@ -1,31 +1,25 @@
 ---
 layout: default
 ---
-<div class="contact_container wraptainer">
-  <div class="small-12 columns">
-  <h1 class="entry-title medium-offset-1">Contact</h1>
-    <form action="{% if page.contact_form != null %}{{ page.contact_form }}{% else %}{{ site.contact_form }}{% endif %}" method="POST">
-      <div class="small-12 medium-offset-1 medium-4 columns">
-        <label for="name">Name</label>
-        <input type="text" name="name" placeholder="Your name" required="">
-      </div>
-      <div class="small-12 medium-offset-1 medium-4 columns">
-        <label for="_replyto">Email</label>
-        <input type="email" name="_replyto" placeholder="Your email" required=""/>
-      </div>
-      <div class="small-12 medium-offset-1 medium-4 columns">
-        <label for="_subject">Subject</label>
-        <input type="text" name="_subject" placeholder="Subject" required=""/>
-      </div>
-      <div class="small-12 medium-offset-1 medium-8 columns">
-        <label for="message">Message</label>
-        <textarea name="message" placeholder="Your Message" required=""></textarea>
-      </div>
-      <div class="small-12 medium-offset-1 medium-4 columns">
-        <input type="submit" value="Send Email" class="button">
-        <input type="hidden" name="_next" value="{{ site.github.url }}/contact/thanks/" />
-        <input type="text" name="_gotcha" style="display:none" />
-      </div>
-    </form>
-  </div>
+<div class="small-12 columns wraptainer">
+{% for post in site.posts %}
+<div class="roll page-content">
+        <header>
+                <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+                <h2>
+                    <a class="post-link" href="{{ site.github.url }}/{{ post.url }}">{{ post.title }}</a>
+                </h2>
+        </header>
+        <article>
+        {% if post.thumbnail %}
+            <a href="{{ site.url }}{{ post.url }}">
+                <figure>
+                    <img src="{{ site.github.url }}/{{ post.thumbnail }}" class="thumb" width="150px" height="150px" />
+                </figure>
+            </a>
+        {% endif %}
+                <p>{{ post.excerpt }}  <a href="{{ site.github.url }}/{{ post.url }}">Read More</a></p>
+        </article>
+</div>
+{% endfor %}
 </div>

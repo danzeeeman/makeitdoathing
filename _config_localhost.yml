@@ -1,4 +1,4 @@
 github:
   url: "http://localhost:4000"
-assets:
+  assets:
   cache: false

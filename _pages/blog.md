@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: blog
+title: devLog
 permalink: "/blog/"
 sidebar: "recent_posts"
 --- 

@@ -71,7 +71,7 @@
 }
 
 #nav>.primary-nav>li.dropdown>a {
-	padding-right: 28px;
+	padding-right: 14px;
 }
 
 #nav>.dropdown a {
@@ -163,7 +163,7 @@
 // Change the link color on hover
 #nav .primary-nav ul li:hover>a {
 	color: $navbar-hover-color;
-    background: lighten($navbar-color, 10%);
+    background: lighten($navbar-color, 0%);
 }
 
 .nav ul ul {
