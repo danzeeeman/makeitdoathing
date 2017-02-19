@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Lexus #TraceYourRoad
+title: Lexus
 permalink: "/commercial/lexus"
 --- 
