@@ -1,14 +1,8 @@
 - title: "commercial"
   href: "/work/"
-
 - title: "art"
   subhref: /art/
-
-- title: "devLog"
-  href: "/blog/"
-
 - title: "about"
   href: "/about/"
-
 - title: "contact"
   href: "/contact/"
