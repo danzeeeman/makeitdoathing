@@ -3,7 +3,6 @@ layout: page
 title: opensource
 permalink: "/opensource/"
 --- 
-[![GITHUB](/images/galleries/art/GitHub-Logo.png)](http://github.com/danzeeeman)
  
 [![OPENFRAMEWORKS](/images/galleries/art/oflogo.jpg)](http://openframeworks.cc)
 
