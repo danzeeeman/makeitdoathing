@@ -6,16 +6,15 @@ permalink: "/games/"
 
 ![PERFECTLY GOOD TOAST](/images/PGTLogo.png)
 # ___JUMPING JACK___
-## ___AND THE QUEST FOR THE GOLDEN CARROT___
  
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//UQ0W-oIohoQ' frameborder='0' allowfullscreen></iframe></div>
  
-___email for builds___
+___contact for build___
 
 # **WIDOWMAKER**
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/49j4e3npE_I' frameborder='0' allowfullscreen></iframe></div>
  
-___email for more infromation___
+___contact for more infromation___
 
 # **NONGAMES**
 
