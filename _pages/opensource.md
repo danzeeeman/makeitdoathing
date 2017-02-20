@@ -3,4 +3,4 @@ layout: page
 title: opensource
 permalink: "/opensource/"
 --- 
-![OPENFRAMEWORKS](/images/art/oflogo.jpg)
+![OPENFRAMEWORKS](/images/galleries/art/oflogo.jpg)
