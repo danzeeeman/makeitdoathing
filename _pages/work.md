@@ -2,14 +2,19 @@
 layout: page
 title: commercial
 permalink: "/work/"
---- 
-
+---  
 [![alt text](/images/galleries/work/HF_banner_image_02.jpg)](#ibm)
+
 [![alt text](/images/galleries/work/lexus_featured_cannes.jpg)](#lexus)
+
 [![alt text](/images/galleries/work/masterdynamic_banner.jpg)](#md)
  
----------
+[![alt text](/images/galleries/work/muzse_banner_a.jpg)](#muzse)
+ 
 
+
+---------
+ 
 <a name="ibm">
 
 ![alt text](/images/galleries/work/HF_banner_image_02.jpg)
@@ -31,9 +36,30 @@ We ended up with something entirely new and stunning- A life sized real time use
 "Trace Your Road" pits F1 driver Jarno Trulli against a series of improvised racetracks, each one designed on a touch tablet in real-time by one of ten lucky contest winners. The live event took place under high security inside the immense aircraft hangar near Rome, and features the new IS Hybrid, a multitude of cameras, and vast real-time projections.
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/74125559' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
-
  
 ---------
-<a name="lexus"/>
- 
+<a name="md"/>
+
 ![alt text](/images/galleries/work/masterdynamic_banner.jpg)
+
+We created geo-metal wall sculptures offering visual variations on the Master & Dynamic logo, and laser cut them with textures from the products. When touched they generate unique sounds and visual projections: The more the visitor touches them, the more intense the visual and auditory response becomes. The effect is a singular combination of sound, sight and touch that sets the tone for the event’s theme and focus.
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/97875722' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+ 
+ 
+---------
+<a name="muzse"/>
+![alt text](/images/galleries/work/muzse_banner_a.jpg)
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/118529473' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+ 
+
+
+---------
+ 
+ 
+ 
+ 
+  
+<a name="abbott">
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/155020306' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
