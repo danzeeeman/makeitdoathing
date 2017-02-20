@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Lexus
+title: lexus
 permalink: "/commercial/lexus"
 --- 

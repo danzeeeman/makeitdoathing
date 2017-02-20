@@ -1,5 +1,5 @@
 ---
 layout: gallery
-title: Art
-permalink: "/art/"
+title: games
+permalink: "/art/video"
 --- 

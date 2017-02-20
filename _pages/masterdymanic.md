@@ -1,5 +1,5 @@
 ---
 layout: page
-title: MasterDynamic
+title: masterdynamic
 permalink: "/commercial/masterdynamic"
 --- 

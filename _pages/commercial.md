@@ -1,5 +1,5 @@
 ---
 layout: gallery
-title: Commercial
+title: commercial
 permalink: "/commercial/"
 --- 
