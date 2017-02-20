@@ -13,6 +13,7 @@
       subhref: "/commercial/microsoft/"
 
 - title: "Art"
+  href: "/art/"
   subcategories:
     - subtitle: "Games"
       subhref: "/art/games/"
@@ -25,7 +26,7 @@
     - subtitle: "FFFFFFFFFAT LAB"
       subhref: "/art/fatlab/"
 
-- title: "openSource"
+- title: "opensource"
   href: "/opensource/"
 
 - title: "devLog"
