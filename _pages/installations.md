@@ -1,5 +1,5 @@
 ---
-layout: gallery
+layout: page
 title: installations
-permalink: "/art/installations"
+permalink: "/installations/"
 --- 
