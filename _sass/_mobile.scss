@@ -183,7 +183,7 @@ a.lightbox-prev, a.lightbox-next, a.lightbox-popup-close {
 /////////////////////////////
 	#nav .primary-nav{
 		width: 100%;
-		max-width: 1024px;
+		max-width: 1023px;
 		height: auto;
 		background: $navbar-color;
 	}
@@ -319,7 +319,7 @@ a.lightbox-prev, a.lightbox-next, a.lightbox-popup-close {
 /////////////////////
 // Styling for iPads
 /////////////////////
-@media (max-width: 1024px) and (orientation: portrait) { 
+@media (max-width: 1023px) and (orientation: portrait) { 
     .hide-for-ipad {
         display: none !important;
     }
