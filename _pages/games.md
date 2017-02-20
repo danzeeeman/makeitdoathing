@@ -1,5 +1,5 @@
 ---
-layout: gallery
+layout: page
 title: games
-permalink: "/art/video"
+permalink: "/art/games"
 --- 

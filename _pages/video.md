@@ -1,5 +1,5 @@
 ---
-layout: gallery
+layout: page
 title: video
-permalink: "/art/video"
+permalink: "/video"
 --- 
