@@ -2,9 +2,9 @@
 name: "home"
 arts:
 # Row 1
-- image: "images/galleries/arr/Thieves-at-Heart.jpg"
-  order: "1"
-  artist: "Sam Wood"
-  title: "Thieves at Heart"
-  description: "Original cover art by Sam Wood for Tristan J. Tarwater's 'Thieves at Heart' novel."
+# - image: "images/galleries/arr/Thieves-at-Heart.jpg"
+#   order: "1"
+#   artist: "Sam Wood"
+#   title: "Thieves at Heart"
+#   description: "Original cover art by Sam Wood for Tristan J. Tarwater's 'Thieves at Heart' novel."
 ---
