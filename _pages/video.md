@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: video
-permalink: "/video"
+permalink: "/video/"
 --- 

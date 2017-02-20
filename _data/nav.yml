@@ -1,24 +1,20 @@
 - title: "commercial"
   href: "/commercial/"
-
 - title: "art"
-  href: "/art"
+  href: "/art/"
 - title: "games"
   href: "/games/"
 - title: "installations"
-  href: "/installations"
+  href: "/installations/"
 - title: "hacks"
   href: "/hacks/"
-- title: "videos"
+- title: "video"
   href: "/video/"
 - title: "opensource"
   href: "/opensource/"
-
 - title: "devLog"
   href: "/blog/"
-
 - title: "about"
   href: "/about/"
-
 - title: "contact"
   href: "/contact/"
