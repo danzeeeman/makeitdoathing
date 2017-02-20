@@ -299,7 +299,7 @@ a.lightbox-prev, a.lightbox-next, a.lightbox-popup-close {
 //////////////////////////////////////////
 // Styling for netbooks and small laptops
 /////////////////////////////////////////
-@media screen and (max-width: 1024px) {  
+@media screen and (max-width: 768px) {  
     [class^="icon-"], [class*=" icon-"] {
         padding: 0 1px;
     }
@@ -319,7 +319,7 @@ a.lightbox-prev, a.lightbox-next, a.lightbox-popup-close {
 /////////////////////
 // Styling for iPads
 /////////////////////
-@media (max-width: 1023px) and (orientation: portrait) { 
+@media (max-width: 768px) and (orientation: portrait) { 
     .hide-for-ipad {
         display: none !important;
     }
