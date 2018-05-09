@@ -8,4 +8,4 @@ permalink: "/"
 
 ## Dan attended Rochester Institute of Technology for Computer Engineering and holds a Masters of Tangible Interaction Design from Carnegie Mellon University’s School of Architecture.
 
-## Dan Moore is a freelance creative sometimes available for [hire](mailto:dan@makeitdoathing.com). Contact for availability. 
+## Dan Moore is a Design Technologist at Squarespace. 
